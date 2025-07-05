@@ -12,15 +12,19 @@
 
 ---
 
-## 📊 My GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahravony507&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-</div>
-
----
+<!-- Github activity -->
+<h3 align="left">GitHub Activity</h3>
+<table>
+  <th>
+    <!-- Contributions -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=putrinabella&" alt="putrinabella" /></p>
+  </th>
+  <th>
+    <!-- Github stats -->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=putrinabella&show_icons=true&locale=en" alt="putrinabella" /></p>
+  </th>
+  <table>
+<!-- Github acitvity end -->
 
 ## 🚀 My Programming Languages
 
