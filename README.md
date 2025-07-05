@@ -1,9 +1,9 @@
 
 # Halo semua! 👋
 
-Perkenalkan nama saya **Zahra Vony**
+Perkenalkan nama saya **Zahra Vonny**
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://linkedin.com/in/zahra-vony) ya.
+
 
 ---
 
@@ -37,16 +37,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Prolog](https://img.shields.io/badge/-Prolog-74283C?style=flat-square&logo=swi-prolog&logoColor=white)
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Zahra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zahravony507&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)](https://github.com/zahravony507)
-
-</div>
 
 ---
 
