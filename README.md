@@ -21,7 +21,7 @@
   </th>
   <th>
     <!-- Github stats -->
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahravonny&show_icons=true&locale=en" alt="zahravony507" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahravony507&show_icons=true&locale=en" alt="zahravony507" /></p>
   </th>
   <table>
 <!-- Github acitvity end -->
