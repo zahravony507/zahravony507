@@ -1,11 +1,12 @@
 
-# Halo semua! 👋
-
 <!-- About me -->
 <h3 align="left">About Me</h3>
 - My name Zahra Vonny
+
 - 🔭 I'm currently learning React.
+  
 - 🌱 I'm looking for internship opportunities.
+- 
 - 📫 How to reach me **zahravony338@gmail.com**
   <!-- About me end -->
 
@@ -33,14 +34,10 @@
 
 ## 🛠️ Technologies & Tools
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Prolog](https://img.shields.io/badge/-Prolog-74283C?style=flat-square&logo=swi-prolog&logoColor=white)
 
 ---
 
