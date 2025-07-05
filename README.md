@@ -6,7 +6,7 @@
 - 🔭 I'm currently learning React.
   
 - 🌱 I'm looking for internship opportunities.
-- 
+
 - 📫 How to reach me **zahravony338@gmail.com**
   <!-- About me end -->
 
