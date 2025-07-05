@@ -1,13 +1,13 @@
 
 <!-- About me -->
 <h3 align="left">About Me</h3>
-- My name Zahra Vonny
+My name Zahra Vonny
 
-- 🔭 I'm currently learning React.
+🔭 I'm currently learning React.
   
-- 🌱 I'm looking for internship opportunities.
+🌱 I'm looking for internship opportunities.
 
-- 📫 How to reach me **zahravony338@gmail.com**
+📫 How to reach me **zahravony338@gmail.com**
   <!-- About me end -->
 
 ---
