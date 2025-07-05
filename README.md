@@ -17,11 +17,11 @@
 <table>
   <th>
     <!-- Contributions -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=putrinabella&" alt="putrinabella" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahravony507&" alt="zahravony507" /></p>
   </th>
   <th>
     <!-- Github stats -->
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=putrinabella&show_icons=true&locale=en" alt="putrinabella" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahravonny&show_icons=true&locale=en" alt="zahravony507" /></p>
   </th>
   <table>
 <!-- Github acitvity end -->
